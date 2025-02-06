@@ -58,4 +58,22 @@
 
 - E-Spor Analitiği
 
-<img src="7.png" width="auto">
+<img src="7.png" width="auto"> 
+
+## Görüntü İşleme Temelli Uygulamalar
+- Otonom araçlar
+
+<img src="8.png" width="auto"> 
+
+- Nesne tanıma/takip uygulamaları
+
+- Sahte videolar
+
+- Eski resimlerin canlandırılması
+
+- Algoritmaların geliştirdiği resimler/var olmayan kişiler 
+
+- Robotlar!
+
+<img src="9.png" width="auto"> 
+<img src="10.png" width="auto"> 
