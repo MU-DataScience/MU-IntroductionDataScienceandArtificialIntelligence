@@ -148,3 +148,8 @@
 <img src="30.png" width="auto">
 <img src="31.png" width="auto">
 <img src="32.png" width="auto">
+
+## İş Anlayışı - İş Problemi
+<img src="33.png" width="auto">
+<img src="34.png" width="auto">
+<img src="35.png" width="auto">
