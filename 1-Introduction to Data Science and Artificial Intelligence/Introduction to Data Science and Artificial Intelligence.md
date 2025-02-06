@@ -153,3 +153,7 @@
 <img src="33.png" width="auto">
 <img src="34.png" width="auto">
 <img src="35.png" width="auto">
+
+## Veriyi Anlamak
+<img src="36.png" width="auto">
+<img src="37.png" width="auto">
