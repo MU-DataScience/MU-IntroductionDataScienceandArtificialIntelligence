@@ -161,3 +161,8 @@
 ## Verinin Hazırlanması
 <img src="38.png" width="auto">
 <img src="39.png" width="auto">
+
+## Modelleme
+<img src="40.png" width="auto">
+<img src="41.png" width="auto">
+<img src="42.png" width="auto">
