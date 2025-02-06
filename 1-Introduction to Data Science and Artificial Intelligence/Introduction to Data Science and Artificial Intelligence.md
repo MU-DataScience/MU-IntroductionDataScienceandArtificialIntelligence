@@ -77,3 +77,52 @@
 
 <img src="9.png" width="auto"> 
 <img src="10.png" width="auto"> 
+
+## Yapay Zeka Çağında Hayatta Kalmak
+<img src="11.png" width="auto">
+
+- Programlama
+
+- Matematik
+
+- İstatistik
+
+- Veri Analizi
+
+- Veri Bilimi
+
+- Büyük Veri
+
+- Yapay Zeka
+
+- Derin Öğrenme
+
+- Makine Öğrenmesi
+
+- Nesnelerin İnterneti
+
+- Endüstri 4.0
+
+- Veri Madenciliği
+
+<img src="12.png" width="auto">
+<img src="13.png" width="auto">
+
+- Veri Analitiği ve Analitik Düşünce Becerileri
+
+<img src="14.png" width="auto">
+<img src="15.png" width="auto">
+
+- Yeni sorular sormak
+
+- Araştırma
+
+- Problem çözme
+
+- Kavramların mantıklarına odaklanmak
+
+<img src="16.png" width="auto">
+
+- Kişinin alışkanlıkları ve tercihlerine yönelik çeşitli çıkarımlar
+
+<img src="17.png" width="auto">
