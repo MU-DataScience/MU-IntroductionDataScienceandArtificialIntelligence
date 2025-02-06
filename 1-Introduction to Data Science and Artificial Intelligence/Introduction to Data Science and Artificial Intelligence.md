@@ -140,3 +140,11 @@
 <img src="24.png" width="auto">
 <img src="25.png" width="auto">
 <img src="26.png" width="auto">
+
+## Veriden Faydalı Bilgi Çıkarmak
+<img src="27.png" width="auto">
+<img src="28.png" width="auto">
+<img src="29.png" width="auto">
+<img src="30.png" width="auto">
+<img src="31.png" width="auto">
+<img src="32.png" width="auto">
