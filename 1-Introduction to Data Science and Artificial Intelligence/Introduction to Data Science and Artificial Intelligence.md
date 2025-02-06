@@ -134,3 +134,9 @@
 <img src="20.png" width="auto">
 <img src="21.png" width="auto">
 <img src="22.png" width="auto">
+
+## Veri Bilimi ve Veri Bilimcilik
+<img src="23.png" width="auto">
+<img src="24.png" width="auto">
+<img src="25.png" width="auto">
+<img src="26.png" width="auto">
