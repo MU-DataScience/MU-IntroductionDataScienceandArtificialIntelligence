@@ -157,3 +157,7 @@
 ## Veriyi Anlamak
 <img src="36.png" width="auto">
 <img src="37.png" width="auto">
+
+## Verinin Hazırlanması
+<img src="38.png" width="auto">
+<img src="39.png" width="auto">
