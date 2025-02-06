@@ -126,3 +126,11 @@
 - Kişinin alışkanlıkları ve tercihlerine yönelik çeşitli çıkarımlar
 
 <img src="17.png" width="auto">
+
+## Sizi Sizden Daha İyi Tanıyan Algoritmalar
+
+<img src="18.png" width="auto">
+<img src="19.png" width="auto">
+<img src="20.png" width="auto">
+<img src="21.png" width="auto">
+<img src="22.png" width="auto">
