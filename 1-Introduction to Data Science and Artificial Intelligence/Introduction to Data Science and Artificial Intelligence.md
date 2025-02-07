@@ -170,3 +170,6 @@
 ## Değerlendirme
 <img src="43.png" width="auto">
 <img src="44.png" width="auto">
+
+## Kullanıma Sokmak
+<img src="45.png" width="auto">
