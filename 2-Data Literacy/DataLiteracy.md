@@ -63,3 +63,16 @@
 - Seçim zamanlarında A,B,C partilerine ilişkin yapılan anket sonuçları açıklanıyor Bugün seçim olsa hangi partiye oy verirsiniz vb diğer sorular şeklinde şimdi bu anketler yapıldığında bu anketler bütün Türkiye'ye yapılmıyor. Örneğin Türkiye'de 80 küsür milyon insan varsa bu insanların hepsine gidilmiyorda bu 80 milyon kişinin iyi bir temsilcisi olduğu varsayılan örneklem çekiliyor Türkiye'de bu rakam bilimsel olarak 2000 - 2500 gibi bir değerdir. Yani 80 milyonun her birisiyle görüşüp onlara bir soru sormak yerine bu 80 milyonun çok iyi temsil ettiği varsayılan ki bazı metotlarla bu gerçekleştiriliyor 2500 kişi üzerinden bir araştırma yapılıp bu yapılan araştırma neticesinde ortaya çıkan sonuçlar 80 milyonunluk Türkiye'nin hepsine genelleniyor. Belirli bir hatayı göze alarak. Örneğin %95 güvenilirlik ile %99 güvenilirlik ile şöyle şöyle oy oranları elde ediliyor şeklinde yani belirli bir güvende vererek belirli bir istatistiki ve olasıksal sapmayı da göz önünde bulundurarak bütün kitleyi incelemek yerine bu kitleyi temsil eden bir örnek üzerinden ilgili çalışmalar gerçekleştirilmiş oluyor.
 
 <img src="14.png" width="auto">
+
+## Gözlem Birimi
+- Araştırmada incelediğimiz birimlerdir.
+
+- İlgilendiğimiz ana kitle içerisinden bu ana kitleyi temsil ettiğini varsaydığımız bir alt küme seçtik. İşte buradaki alt küme içerisindeki her bir eleman incelediğimiz odaklandığımız ana birim işte gözlem birimi olarak adlandırılır.
+
+<img src="15.png" width="auto">
+
+- Örneğin seçim çalışmasına geri dönecek olursak anket yapılmak üzere mikrofon uzatılan her bir birey gözlem birimidir ya da bir modelleme çalışması bir makine öğrenmesi çalışması yapıldığında incelenen gözlem birimleri farklılaşacaktır. Mesela bir araç fiyat tahmin modeliyle ilgilendiğimizi düşünelim.
+
+<img src="16.png" width="auto">
+
+- Bakın burada araçlar var fiyatlar var kilometreler var vitesler var bu bir veri. İşte bu veri içerisindeki her bir satır gözlem birimidir. Buradaki sütunlar ise değişkenlerdir. Buradaki her bir satır gözlem birimidir yani araştırmamızın ana odak noktasıdır.
