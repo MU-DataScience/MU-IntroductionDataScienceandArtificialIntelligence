@@ -76,3 +76,33 @@
 <img src="16.png" width="auto">
 
 - Bakın burada araçlar var fiyatlar var kilometreler var vitesler var bu bir veri. İşte bu veri içerisindeki her bir satır gözlem birimidir. Buradaki sütunlar ise değişkenlerdir. Buradaki her bir satır gözlem birimidir yani araştırmamızın ana odak noktasıdır.
+
+## Değişken ve Değişken Türleri
+- Gözlem birimi çalışmadaki birimler odaklandığımız birimler.
+
+<img src="17.png" width="auto">
+
+- Değişken : Birimden birime farklı değerler alan niceliktir.
+
+- KM değeri buradaki her bir satırda bunu göz önünde bulundurursak bakın birimden birime farklı değerler almış. Gözlem birimi çalışmadaki ana odak noktamız yani birimler değişkenler ise birimden birime farklı değerler alan niceliklerdir.
+
+- Buradaki bütün değerlere değişken diyoruz. KM, Vites Türü, Hasar Durumu, Marka, Model, Araç Fiyatı bir değişken. Burada garip bir durum var burada işte bazıları sayısal bazıları metinsel bunlarda değişkenlerin türleridir. KM ve Araç Fiyatı burada sayısal değişken diğer değişkenler ise kategorik değişken.
+
+- Değişkenler temelde ikiye ayrılır. 
+
+### Değişken Türleri
+- Sayısal Değişkenler(nicel, kantitatif)
+- Kategorik Değişkenler(nitel, kalitatif)
+
+- Cinsiyet kategorik değişkendir.
+- Kadın Erkek ise bu kategorik değişkenin sınıflarıdır.
+
+<img src="18.png" width="auto">
+
+- Buradan hareketle Vites Türü kategorik değişkendir. Manuel ve Otomatik bu değişkenin sınıflarıdır. Markanın sınıfları ise A, B, C'dir. Model'de bir kategorik değişkendir bu kategorik değişkenin de sınıfları/kategorileri vardır.
+
+- Rütbe kategorik değişkeninin sınıfları:
+    * Onbaşı < Yüzbaşı < Binbaşı < Albay
+    * Buradaki yapı biraz farklı sanki değişkenin kategorilerinin sınıfları arasında bir fark var. İşte burada devreye ölçek türleri giriyor.
+
+<img src="19.png" width="auto">
