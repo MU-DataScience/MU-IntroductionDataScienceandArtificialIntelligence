@@ -166,3 +166,7 @@
 <img src="40.png" width="auto">
 <img src="41.png" width="auto">
 <img src="42.png" width="auto">
+
+## Değerlendirme
+<img src="43.png" width="auto">
+<img src="44.png" width="auto">
