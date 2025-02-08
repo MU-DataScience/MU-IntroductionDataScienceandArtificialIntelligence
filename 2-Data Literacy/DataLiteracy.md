@@ -198,3 +198,17 @@
 - İş hayatımızda da günlük hayatımızda da merkezi eğilim ölçüleriyle konuşurken eğer medyan ve ortalama bahsi açıldıysa mutlaka ve mutlaka muhattaplara ya dağılım simetrik mi diye sormak lazım ya da muhataplara bilgi verirken dağılım incelendiğinde dağılımın simetrik olduğu gözükmektedir bu sebeple aritmetik ortalaması budur veya dağılım incelendiğinde veri seti içerisinde bulunan bazı aykırıklardan vb sebeplerden dolayı ortaya simetrik olmama problemi çıkmıştır bu sebeple bu değişkenin temsili değeri olarak medyan değerini sunuyorum.
 
 <img src="38.png" width="auto">
+
+## Mod
+- Bir seride(değişkende) en çok tekrar eden değere Mod adı verilir.
+
+- Modu matematiksel olarak hesaplamaktan ziyade bilgisayar yardımıyla ya da hesap makinesi yardımıyla hesaplayabiliyoruz. Çünkü elimizdeki serinin her bir değerinin yakalanıp bunların sayılıp sayma işleminden sonra en çok tekrar edenin ortaya konması gerekiyor yani biraz daha algoritmik bir işlem söz konusu Basit bir matematiksel formülasyondan ziyade peşisıra takip eden bazı işlemler gerekiyor. Örneğin 10 tane değer olduğunu düşünelim elimizde bu her bir değer unique bir şekilde sayılıyor daha sonra tekrar etmesi durumunda unique değerlerin üzerine 1 ekleniyor ve en son işlemde de en çok frekansa sahip olan değer mod olarak belirlenmiş oluyor.
+
+<img src="39.png" width="auto">
+
+- 13,10,13,12,17,13,14
+    * Mod : 13
+
+- Bir değişkende en çok gözlenen yani frekansı en fazla olan değere mod denir.
+
+<img src="40.png" width="auto">
