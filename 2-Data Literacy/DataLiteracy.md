@@ -106,3 +106,54 @@
     * Buradaki yapı biraz farklı sanki değişkenin kategorilerinin sınıfları arasında bir fark var. İşte burada devreye ölçek türleri giriyor.
 
 <img src="19.png" width="auto">
+
+## Ölçek Türleri
+- Sayısal Değişkenler için: Aralık ve Oran
+- Kategorik Değişkenler için: Nominal ve Ordinal
+
+- Bir değişkenin değerlerini insan olarak okuyup anlayabilmemiz adına bunu ölçmemiz gerekiyor. Buradaki ölçmek ifadesi sayısal değişkenler ve kategorik değişkenler için ayrılıyor.
+
+<img src="20.png" width="auto">
+
+- Bir sıcaklık değeri olduğunda elimizde bu sıcaklık değişkeninin eksi değerlerde ve artı değerlerde alabileceğini biliyoruz değil mi? İşte bu tip eksi değerlerde alabilen yani başlangıç noktası sıfır olmayan değişkenlere aralık türüyle ölçülmüş aralık ölçek türüyle ölçülmüş deriz.
+
+- Başlangıç noktası sıfır olmayan sayısal değişkenlerin ölçek türü aralıktır.
+
+<img src="21.png" width="auto">
+
+- Başlangıç noktasını sıfır kabul eden sayısal değişkenlerin ölçek türü orandır.
+
+- Elimizde bir değişken olduğunu düşünelim bu değişkenin 0 değeri bir başlangıç noktası yani yokluğu ifade ediyorsa bu durumda bu sayısal değişken için bu değişken oran ölçeğiyle ölçülmüştür deriz.  
+
+<img src="22.png" width="auto">
+<img src="23.png" width="auto">
+
+- Yukarıdaki örnekte araç fiyatı 0 olduğunda bu neyi ifade edecek? 0 bir değeri yok bir yokluk ifade edecek KM'yi düşünelim KM'de eğer bu sayısal değişkenin 0 olursa ne olacak KM'si de yok bakın bir yokluk ifade ediyor. 
+
+- Aralık ölçek türü içinde ifade edildiği üzere bir sıcaklık değişkeni düşünebilirsiniz. Örneğin burada 100 km sonrasında ortalama sıcaklık gibi bir değer bir değişken olduğunda bu değişken eğer eksi değerlerde alabiliyorsa artı değerlerde alabiliyorsa bu değişkenin ölçek türü incelendiğinde bunu aralık ölçek türü demiş olacağız.
+
+- Kategorik değişken text formatında string formatında olabilir netice itibariyle karakter formatındaki veriler değil mi? isimlendirmelerden oluşur kabaca. Örneğin cinsiyet kadın erkek metin formatında karakterlerden oluşan programlama dilinde string değerlerden oluşan bir değişken. Şimdi bu kategorik değişkenlerin sınıfları arasında fark olmadığında buna nominal ölçek türüyle ölçülmüştür.
+
+- Cinsiyet kategorik değişkendir.
+    * Kadın, Erkek ise bu kategorik değişkenin sınıflarıdır.
+    * Kadın ve Erkek sınıfları arasında fark olmadığı için bu değişken nominal ölçek türüne sahiptir.
+
+<img src="24.png" width="auto">
+
+- Sınıflar arası fark olmasındaki durumunda ise ölçek türü ordinal ölçek türüdür. Rütbe isminde bir değişkenimiz olsun 
+
+- Rütbe kategorik bir değişkendir.
+    * Bu kategorik değişkenin sınıfları: Onbaşı < Yüzbaşı < Binbaşı < Albay
+    * Değişkenin sınıfları arasında fark olduğu için Rütbe değişkeni ordinaldir.
+
+<img src="25.png" width="auto">
+
+- Eğitim Durumu kategorik bir değişkendir
+    * Bu kategorik değişkenin sınıfları: İlkokul < Lise < Üniversite < Lisansüstü
+    * Değişkenlerin sınıfları arasında fark olduğu için Eğitim Durumu değişkeni ordinaldir/sıralıdır.
+
+<img src="26.png" width="auto">
+<img src="27.png" width="auto">
+<img src="28.png" width="auto">
+<img src="29.png" width="auto">
+<img src="30.png" width="auto">
