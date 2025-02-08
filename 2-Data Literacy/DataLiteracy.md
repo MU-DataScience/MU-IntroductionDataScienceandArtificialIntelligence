@@ -170,3 +170,31 @@
 
 - Web sitemizde kullanıcılarımızın geçirmiş olduğu sürelere ilişkin bir veri olsun işte herhangi bir kişisel blog adresimiz var veya buna benzer bir şirket sitemiz olsun. Bu sitemizde kullanıcılarımızın geçirdiği sürelerin kaydının tutulduğunu gözlemliyoruz. Örneğin bir kullanıcı 3Dk bir kullanıcı 160 sn olacak şekilde böyle bazı kullanıcıların bilgileri var. Anlaşıldı kullanıcıların her birinin ayrı ayrı web sitemizde geçirdiği süreler var amma acaba ortalama ne kadar süre geçiriyorlar. Bu kullanıcıları aşağı yukarı her birini temsil edecek bir değer elimizde olsun diyerek elimizdeki değişkenin değerin merkezi eğiliminin nerede olduğunu görebiliyoruz.
 
+## Medyan
+- Bir seriyi küçükten büyüğe veya büyükten küçüğe sıraladığımızda tam orta noktadan seriyi iki eşit parçaya ayıran değere medyan adı verilir.
+
+- Yine elimizdeki serinin veya değişkenin merkezi eğilimiyle ilgili bilgi almak için kullandığımız bir istatistiktir.
+
+<img src="33.png" width="auto">
+
+- Medyanı hesaplamak için bir seriye odaklandığımızda serinin içermiş olduğu gözlem sayısına göre medyanın hesaplama işlemleri farklılaşmaktadır. Elimizde 5 değer olduğunda tam ortadaki değeri bulabiliriz 3. sayıdır. Çift sayılarda değerler olduğunda ise tam ortada kalan iki değerin ortalaması alınır.
+
+<img src="34.png" width="auto">
+<img src="35.png" width="auto">
+<img src="36.png" width="auto">
+<img src="37.png" width="auto">
+
+- Elinizdeki seri simetrikse ancak bu seriyle ilgili aritmetik ortalama hesaplanabilir. Eğer elimizdeki seri ya da değişkenin dağılımı simetrik değilse bu durumda medyan hesaplanabilir. Çünkü elimizdeki serinin merkezini temsil etmek üzere bir değer arıyoruz eğer elimizdeki serinin dağılımı simetrik değilse( ki simetrik olmamak değişkenin içerisinde aykırı değerler olduğu anlamına gelir) bu durumda ortalama yanıltıcı olacaktır. 
+
+- 13,10,15,12,17,12,19,18,11,12,190 
+    * Ortalama : 28.5
+    * En küçük değer : 10
+    * En büyük değer : 190
+    * Bu seriyi temsil etmek için 28.5 kullanılabilir mi?
+    * Bu serinin medyanı 13'tür.
+    * Bu seriyi temsil etmek için 28.5 mi yoksa 13'ü mü tercih edersiniz?
+    * Bu seriyi temsil etmek için medyanı belirlemeliyiz.
+
+- İş hayatımızda da günlük hayatımızda da merkezi eğilim ölçüleriyle konuşurken eğer medyan ve ortalama bahsi açıldıysa mutlaka ve mutlaka muhattaplara ya dağılım simetrik mi diye sormak lazım ya da muhataplara bilgi verirken dağılım incelendiğinde dağılımın simetrik olduğu gözükmektedir bu sebeple aritmetik ortalaması budur veya dağılım incelendiğinde veri seti içerisinde bulunan bazı aykırıklardan vb sebeplerden dolayı ortaya simetrik olmama problemi çıkmıştır bu sebeple bu değişkenin temsili değeri olarak medyan değerini sunuyorum.
+
+<img src="38.png" width="auto">
