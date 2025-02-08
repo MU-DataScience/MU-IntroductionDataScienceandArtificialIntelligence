@@ -230,3 +230,16 @@
 - Kartillerde yine serinin merkezi eğilimiyle ilgili bilgi almak için kullanılır. Aynı şekilde dağılım ölçülerinde de kartiller dağılımla ilgili bilgi vermek/almak için kullanılabilir. Fakat biraz daha farklılaştığı nokta aslında bize serinin merkeziyle beraber biraz daha merkezinin sağında ve solundaki eğilimlerle dağılımlarla ilgili de bilgi sağlar. İşte bu sebeple hem eğilim hem de dağılım ölçüleriyle birlikte kullanılabiliyor.
 
 - Serinin merkezine ilişkin bilgi almak istediğimizde ortalama,medyan ya bu merkezlenmeyle ilgili ben biraz daha bilgi istiyorum dediğimizde de bir quartile'ları yani kartilleri de işin içine koyduğumuzda merkezi ile ilgili biraz daha bilgi almış oluyoruz.
+
+## Merkezi Eğilim
+-  Merkezi eğilim ölçülerinin soyut bazı kavramları nümerik/matematiksek/istatistik anlamda ölçüp onları temsil edebilme yönünü anlamış olacağız.
+
+1. Temsil Yönünü Kavramak
+2. Doğru Kullanılması
+
+<img src="44.png" width="auto"> 
+<img src="45.png" width="auto">
+
+- Ortalamayla medyanın birbirine çok yakın olması bu dağılımın düzgün olduğu/homojen olduğu anlamına gelir ve bu durumda ortalama veya medyan temsili değer olarak kullanılabilir ikiside birbirine çok yakın çünkü.
+
+<img src="46.png" width="auto">
