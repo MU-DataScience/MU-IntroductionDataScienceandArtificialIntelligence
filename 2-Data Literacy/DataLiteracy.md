@@ -243,3 +243,16 @@
 - Ortalamayla medyanın birbirine çok yakın olması bu dağılımın düzgün olduğu/homojen olduğu anlamına gelir ve bu durumda ortalama veya medyan temsili değer olarak kullanılabilir ikiside birbirine çok yakın çünkü.
 
 <img src="46.png" width="auto">
+
+## Değişim Aralığı
+- Dağılım : Elimizdeki değişkenin değerlerinin ne şekilde dağıldığını ifade eden ölçülerdir.
+
+- Elimizdeki değişkenin maksimum değerlerin minimum değerleri veya ortalama etrafındaki durumun ne olduğunu anlamaya çalışmak amaçlarıyla kullanılan ölçülerdir.
+
+<img src="47.png" width="auto">
+
+- Değişim aralığı bir değişkendeki/serideki maksimum değerden minimum değeri çıkardığımızda elde ettiğimiz değerdir.
+
+- Değişim aralığı ilk ilkel dağılım ölçüsüdür. Örneğin elimizde bir değişken ve değerleri var bu değişkenin değerlerinin nasıl bir aralıkta değiştiğini merak ediyoruz. dağılımını merak ediyoruz.
+
+<img src="48.png" width="auto">
