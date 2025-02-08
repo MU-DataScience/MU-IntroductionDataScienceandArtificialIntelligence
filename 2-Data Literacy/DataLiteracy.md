@@ -157,3 +157,16 @@
 <img src="28.png" width="auto">
 <img src="29.png" width="auto">
 <img src="30.png" width="auto">
+
+## Aritmetik Ortalama
+- Bir seride(değişkende) yer alan tüm değerlerin toplanması ve birim sayısına bölünmesi ile elde edilen istatistiktir.
+
+<img src="31.png" width="auto">
+<img src="32.png" width="auto">
+
+- Aritmetik ortalama merkezi eğilim ölçülerinden en sık kullanılan ve elimizdeki bir değişkenin ya da serinin ortalamasını temsil edebilmek adına kullandığımız bir merkezi eğilim ölçüsü.
+
+- Bizlerde elimize bir veri seti geldiğinde bu veri setinin içerisindeki tüm değişkenler için veya ilgilenmiş olduğumuz bazı değişkenler için ben bu veri setini bir tanıyayım şu değişkenlerin yapısını öğreneyim/inceleyeyim dediğinizde başvuracak olduğumuz ilk istatistiklerden birisidir.
+
+- Web sitemizde kullanıcılarımızın geçirmiş olduğu sürelere ilişkin bir veri olsun işte herhangi bir kişisel blog adresimiz var veya buna benzer bir şirket sitemiz olsun. Bu sitemizde kullanıcılarımızın geçirdiği sürelerin kaydının tutulduğunu gözlemliyoruz. Örneğin bir kullanıcı 3Dk bir kullanıcı 160 sn olacak şekilde böyle bazı kullanıcıların bilgileri var. Anlaşıldı kullanıcıların her birinin ayrı ayrı web sitemizde geçirdiği süreler var amma acaba ortalama ne kadar süre geçiriyorlar. Bu kullanıcıları aşağı yukarı her birini temsil edecek bir değer elimizde olsun diyerek elimizdeki değişkenin değerin merkezi eğiliminin nerede olduğunu görebiliyoruz.
+
