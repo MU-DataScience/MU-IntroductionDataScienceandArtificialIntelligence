@@ -212,3 +212,21 @@
 - Bir değişkende en çok gözlenen yani frekansı en fazla olan değere mod denir.
 
 <img src="40.png" width="auto">
+
+## Kartiller
+- Küçükten büyüğe sıralanan bir seriyi 4 parçaya ayıran değerlere kartiller denir.
+
+- Hem merkezi eğilim ölçüsü olarak hem de bir dağılım ölçüsü olarak kullanılabilen yapılardan bir tanesi kartillerdir.
+
+<img src="41.png" width="auto">
+
+- 8,10,15,12,17,20,14
+    * 8,10,12,14,15,17,20
+    * Sıralama işleminden sonra şu soruyu sorarız: Ben ortalama ve medyan gibi değerlerle elimdeki değişkenin merkezinin nerede olduğunu gördüm fakat birde acaba merkezinin üstüne %25'lik sağ tarafa doğru gitsem %25'lik sol tarafa doğru gitsem ve ortasını % 25'lik kısmına gelen değerini % 75'lik kısma gelen değerini bir baksam ihtiyacı ile kartiller ortaya çıkmıştır.
+
+<img src="42.png" width="auto">
+<img src="43.png" width="auto">
+
+- Kartillerde yine serinin merkezi eğilimiyle ilgili bilgi almak için kullanılır. Aynı şekilde dağılım ölçülerinde de kartiller dağılımla ilgili bilgi vermek/almak için kullanılabilir. Fakat biraz daha farklılaştığı nokta aslında bize serinin merkeziyle beraber biraz daha merkezinin sağında ve solundaki eğilimlerle dağılımlarla ilgili de bilgi sağlar. İşte bu sebeple hem eğilim hem de dağılım ölçüleriyle birlikte kullanılabiliyor.
+
+- Serinin merkezine ilişkin bilgi almak istediğimizde ortalama,medyan ya bu merkezlenmeyle ilgili ben biraz daha bilgi istiyorum dediğimizde de bir quartile'ları yani kartilleri de işin içine koyduğumuzda merkezi ile ilgili biraz daha bilgi almış oluyoruz.
