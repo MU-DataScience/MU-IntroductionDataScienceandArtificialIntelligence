@@ -320,3 +320,8 @@
 
 <img src="64.png" width="auto">
 <img src="65.png" width="auto">
+
+## Verinin Tanımlanması I
+<img src="66.png" width="auto">
+<img src="67.png" width="auto">
+<img src="68.png" width="auto">
