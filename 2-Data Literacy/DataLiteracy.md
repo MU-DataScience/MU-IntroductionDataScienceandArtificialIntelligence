@@ -255,4 +255,19 @@
 
 - Değişim aralığı ilk ilkel dağılım ölçüsüdür. Örneğin elimizde bir değişken ve değerleri var bu değişkenin değerlerinin nasıl bir aralıkta değiştiğini merak ediyoruz. dağılımını merak ediyoruz.
 
+- Hedeflediğimiz bir iş pozisyonu var. Bir iş yerinde işe girmek istiyoruz ve birden fazla işyerine başvurduk ve birden fazla teklif aldığımızı varsayalım bu durumda bu işyerlerinde çalışan kişilere örneğin hedeflediğimiz departman ve alt birimin maaşlarının değişim aralığı nedir diye sorduğumuzda direkt maaşlar sorulamayacağından belki örneğin bir işyerinde değişim aralığı 10000 ise diğer iş yerinde değişim aralığı 1000 ise bu ne anlama gelir? Değişim aralığı kküçük olan yerde maaşların birbirlerine daha yakın olduğu belki bir açıdan daha adil olduğu diğer iş yerinde ise farkın büyük olması o iş yerindeki maaş dağılımının biraz daha birbirinden farklılaşma gösterdiği düşünülebilir.
+
+- Değişim aralığı hem tek bir değişken için hem tek bir değişkenin birden fazla konu söz konusu olduğunda göz önünde bulundurulması için aralarındaki farkı ifade etmek adına kullanılan ilkel bir dağılım ölçüsüdür.
+
 <img src="48.png" width="auto">
+
+## Standart Sapma
+- Ortalamadan olan sapmaların genel bir ölçüsüdür.
+
+- Her bir gözlem biriminin ortalama değere olan uzaklıklarını aldığımızda ortalamaya olan uzaklığı hesaplamış oluyoruz.
+
+- Standart sapma aslında bir ortalamadır. Ortalamadan olan sapmaların bir ortalamasıdır.
+
+<img src="49.png" width="auto">
+<img src="50.png" width="auto">
+<img src="51.png" width="auto">
