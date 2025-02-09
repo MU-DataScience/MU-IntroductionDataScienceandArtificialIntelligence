@@ -279,3 +279,15 @@
 
 <img src="52.png" width="auto">
 <img src="53.png" width="auto">
+
+## Çarpıklık
+- Çarpıklık değişkenin dağılımının simetrik olamayışıdır.
+
+<img src="54.png" width="auto">
+
+- Normal şartlar altında simetrik olan dağılımda ortalama ve medyan değerleri birbirine eşit veya çok yakın olur. Eğer ortalama ile medyan arasında bir fark varsa ki bu durumda dağılımın çarğık olduğunun sinyalini alırız.
+
+- Ortalama ve medyan arasındaki fark aslında simetrik olup olmamasını ifade eder.
+
+<img src="55.png" width="auto">
+<img src="56.png" width="auto">
