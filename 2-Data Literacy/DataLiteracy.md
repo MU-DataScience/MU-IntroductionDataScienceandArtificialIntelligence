@@ -325,3 +325,8 @@
 <img src="66.png" width="auto">
 <img src="67.png" width="auto">
 <img src="68.png" width="auto">
+
+
+## Verinin Organize Edilmesi ve İndirgenmesi
+<img src="69.png" width="auto">
+<img src="70.png" width="auto">
