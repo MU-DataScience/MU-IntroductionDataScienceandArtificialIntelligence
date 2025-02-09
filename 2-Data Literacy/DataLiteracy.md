@@ -291,3 +291,11 @@
 
 <img src="55.png" width="auto">
 <img src="56.png" width="auto">
+
+## Basıklık
+- Değişken dağılımının sivriliğini/basıklığını gösteren istatistiktir.
+
+<img src="57.png" width="auto">
+<img src="58.png" width="auto">
+<img src="59.png" width="auto">
+<img src="60.png" width="auto">
