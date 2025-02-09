@@ -330,3 +330,6 @@
 ## Verinin Organize Edilmesi ve İndirgenmesi
 <img src="69.png" width="auto">
 <img src="70.png" width="auto">
+
+## Veri Gösterimi
+<img src="71.png" width="auto">
