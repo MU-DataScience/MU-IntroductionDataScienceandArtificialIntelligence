@@ -271,3 +271,6 @@
 <img src="49.png" width="auto">
 <img src="50.png" width="auto">
 <img src="51.png" width="auto">
+
+## Varyans
+- 
