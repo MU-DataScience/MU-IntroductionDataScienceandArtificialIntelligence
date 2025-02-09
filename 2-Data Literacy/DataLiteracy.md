@@ -273,4 +273,9 @@
 <img src="51.png" width="auto">
 
 ## Varyans
-- 
+- Standart sapmanın karesidir. (Ortalamadna olan saplamarın karelerinin toplamıdır.)
+
+- Varyansı bu standart sapmanın karesini alma işlemi gerçekleştiğinden dolayı birden fazla değişkenin dağılımını birbirleriyle kıyaslamak için kullanmak istediğimizde varyans kullanılması tercih edilebiliyor.
+
+<img src="52.png" width="auto">
+<img src="53.png" width="auto">
