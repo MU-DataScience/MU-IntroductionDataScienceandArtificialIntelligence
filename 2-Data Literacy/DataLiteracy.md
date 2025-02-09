@@ -299,3 +299,24 @@
 <img src="58.png" width="auto">
 <img src="59.png" width="auto">
 <img src="60.png" width="auto">
+
+## İstatistiksel Düşünce Modelleri
+- Veri okuryazarlığından veri analitiğine giden yolu modelleyen yol göstericilerdir.
+
+- Bu modeller eğitim/akademik anlamda istatistik kurumlarınca ortaokul ve liselerin müfredatlarına yerleştirilmeye çalışılan ve öğrencilerin analitik düşünce becerilerini veri analitiği kapsamında belirli bir programatik şemayla ele almamızı sağlayan akademik/teorik modellerdir. 
+
+<img src="61.png" width="auto">
+<img src="62.png" width="auto">
+
+- Bu modellerin genel amacı bir bireyin veriye ilk dokunduğu andan son aşaması olan veriyle ilgili yorumlar yapabilme analitik çıkarımlarda bulunabilme süreçlerini modelleyen teorik çalışmalardır.
+
+<img src="63.png" width="auto">
+
+- Mooney modeli kabaca4 basamaktan oluşur
+    * Verinin Tanımlanması
+    * Verinin Organize Edilmesi ve İndirgenmesi
+    * Veri Gösterimi
+    * Verinin Analiz Edilmesi ve Yorumlanması
+
+<img src="64.png" width="auto">
+<img src="65.png" width="auto">
