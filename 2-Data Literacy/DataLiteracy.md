@@ -333,3 +333,6 @@
 
 ## Veri Gösterimi
 <img src="71.png" width="auto">
+
+## Verinin Analiz Edilmesi ve Yorumlanması
+<img src="72.png" width="auto">
